@@ -266,14 +266,7 @@ python diagnostico.py
 - `"¿Cuál tiene el mejor rating?"`
 - `"Busco aventuras en montaña"`
 - `"¿Qué destinos duran una semana?"`
-
-## 🤝 Contribuir
-
-1. Fork el repo
-2. Crea tu branch (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit (`git commit -m 'Agrega nueva funcionalidad'`)
-4. Push (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
+  
 
 ## 📝 Changelog
 
@@ -305,4 +298,5 @@ MIT License - ver [LICENSE](LICENSE) para detalles.
 **Hecho con ❤️ usando Python, Weaviate y Ollama**
 
 </div>
+
 
