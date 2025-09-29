@@ -14,12 +14,6 @@ Esta guía explica cómo conectar Weaviate Cloud con Ollama local para vectoriza
 pip install weaviate-client pypdf requests
 ```
 
-## Configuración de variables de entorno
-
-```powershell
-$env:WEAVIATE_API_KEY="TU_API_KEY"
-$env:WEAVIATE_URL="https://tu-cluster.weaviate.cloud"
-```
 
 ## Iniciar Ollama y descargar modelo
 
@@ -49,5 +43,6 @@ ollama pull llama3
 - Puedes cambiar el modelo en la configuración del vectorizador si lo necesitas.
 
 ---
+
 
 ¿Dudas o necesitas adaptar el flujo? ¡Pide ayuda aquí!
